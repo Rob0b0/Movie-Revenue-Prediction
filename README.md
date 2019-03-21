@@ -5,9 +5,9 @@ Trained an artificial neural network model to predict movie box office revenue b
 
 Final paper report included.  
 
-## Confusion matrix of the NN model
+### Confusion matrix of the NN model
 <img src='NN Matrix.png'>
 
-## Feature importance inferred from random forest model
+### Feature importance inferred from random forest model
 <img src='feature importance.png'>
 
